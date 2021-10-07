@@ -1,0 +1,14 @@
+{
+    "except": [
+        "en\/login\/",
+        "el\/login\/",
+        "en\/backend\/*",
+        "el\/backend\/*"
+    ],
+    "redirect": null,
+    "retry": null,
+    "refresh": null,
+    "secret": "null-onlyfor-public",
+    "status": 503,
+    "template": null
+}

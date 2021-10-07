@@ -1,0 +1,20 @@
+.sidebar-menu>li.active {
+    background-color: #ffffff !important;
+}
+
+.filepond--panel-root {
+    border: 1px solid black !important;
+    background-color: red !important;
+}
+
+.filepond--drop-label.filepond--drop-label label {
+    color: #ffffff !important;
+    font-weight: bold !important;
+}
+
+
+/* sidebar links */
+
+aside.main-sidebar a {
+    text-decoration: none;
+}

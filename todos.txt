@@ -1,0 +1,8 @@
+product many to many variants per category
+product colors, ram, size, width, height, χωριτικοτητα, εγγυηση, energyclass, screen
+Product variant through category
+Variant title, value one to many category_id
+@foreach Category->variant, category->variant->title
+sidebar routing e.g. : route(variant->slug)
+
+nesting all components to vue <shop-page> and tag to blades
